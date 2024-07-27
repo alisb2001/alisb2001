@@ -9,7 +9,7 @@ I am a highly motivated and accomplished professional with a solid foundation in
 * 🌍  I'm based in Nabatieh, Lebanon
 * ✉️  You can contact me at [ali.sbeity.business@gmail.com](mailto:ali.sbeity.business@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
-- 📫 How to reach me : +961 76942488 / email:ali.sbeity.business@gmail.com
+- 📫 How to reach me : +961 76942488
 - ⚡ Fun fact: Playing Football , Reading , Walking and Swiming.
 
   ### Skills
