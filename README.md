@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Ali sbeity
-- 👀 I’m interested in your internship
-- 🌱 I’m currently learning React.js with MongoDB
-- 💞️ I’m looking to collaborate on Your Programs
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+===========================================================================================================================================
+
+Full-Stack Development
+--------------------------------
+
+I am a highly motivated and accomplished professional with a solid foundation in various coding disciplines. With experience as both a developer and an instructor, I have honed my skills to deliver award-winning training sessions that are clear and engaging. My passion for continuously improving my coding proficiency and logical problem-solving skills drives me to stay at the forefront of technological innovation.
+
+* 🌍  I'm based in Nabatieh, Lebanon
+* ✉️  You can contact me at [ali.sbeity.business@gmail.com](mailto:ali.sbeity.business@gmail.com)
+* 🤝  I'm open to collaborating on interesting projects
 - 📫 How to reach me : +961 76942488 / email:ali.sbeity.business@gmail.com
 - ⚡ Fun fact: Playing Football , Reading , Walking and Swiming.
 
